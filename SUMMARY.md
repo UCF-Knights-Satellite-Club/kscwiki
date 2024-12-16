@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to the Knights Satellite Club's Wiki Page](README.md)
 
 ## Getting Started
 
