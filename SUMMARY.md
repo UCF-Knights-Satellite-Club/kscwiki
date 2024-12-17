@@ -1,17 +1,12 @@
 # Table of contents
 
-* [Welcome to the Knights Satellite Club's Wiki Page](README.md)
+* [Welcome to the KSC Wiki](README.md)
 
-## Getting Started
+## Projects
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Tethered Sat (T-Sat)](projects/tethered-sat-t-sat.md)
+* [Knight Air Observer Satellite (KAOS)](projects/knight-air-observer-satellite-kaos.md)
 
-## Basics
+## Club Operations
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Officer Duties](club-operations/officer-duties.md)
