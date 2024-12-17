@@ -10,3 +10,4 @@
 ## Club Operations
 
 * [Officer Duties](club-operations/officer-duties.md)
+* [Fundraising](club-operations/fundraising.md)
