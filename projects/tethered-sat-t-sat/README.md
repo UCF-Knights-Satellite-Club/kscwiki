@@ -8,5 +8,5 @@ T-Sat is KSC's rapid iteration CubeSat test bed program. These are small, suborb
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>T-Sat-0</strong></td><td>The first mission</td><td></td><td>A</td><td><a href="../../.gitbook/assets/IMG_8537.jpg">IMG_8537.jpg</a></td><td><a href="t-sat-0.md">t-sat-0.md</a></td></tr><tr><td>T</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>T-Sat-0</strong></td><td>The first mission</td><td></td><td>A</td><td><a href="../../.gitbook/assets/IMG_8537.jpg">IMG_8537.jpg</a></td><td><a href="t-sat-0/">t-sat-0</a></td></tr><tr><td>T</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
