@@ -17,5 +17,6 @@
 
 ## Club Operations
 
-* [Officer Duties](club-operations/officer-duties.md)
+* [Board](club-operations/board.md)
+* [Committees](club-operations/committees.md)
 * [Fundraising](club-operations/fundraising.md)
