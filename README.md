@@ -38,7 +38,7 @@ We are Knights Satellite Club, the University of Central Florida's student CubeS
 
 Each of our projects has individual documentation. Please select a project to view its contents.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Knights Air Observation Satellite</strong></td><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Tethered Sat</strong></td><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Rotating Satellite Antenna Controller</strong></td><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Orbital CubeSat</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Tethered Sat</strong></td><td></td><td><a href=".gitbook/assets/IMG_8537.jpg">IMG_8537.jpg</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Knights Air Observation Satellite</strong></td><td></td><td><a href=".gitbook/assets/IMG_1723.jpg">IMG_1723.jpg</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Orbital CubeSat</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Rotating Satellite Antenna Controller</strong></td><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
 
 
 
