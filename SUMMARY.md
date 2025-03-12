@@ -4,19 +4,43 @@
 
 ## Projects
 
-* [Tethered Sat (T-Sat)](projects/tethered-sat-t-sat/README.md)
-  * [T-Sat-0](projects/tethered-sat-t-sat/t-sat-0/README.md)
-    * [Conclusion](projects/tethered-sat-t-sat/t-sat-0/conclusion.md)
-  * [T-Sat-1](projects/tethered-sat-t-sat/t-sat-1.md)
-* [Knight Air Observer Satellite (KAOS)](projects/knight-air-observer-satellite-kaos/README.md)
-  * [KAOS-0](projects/knight-air-observer-satellite-kaos/kaos-0.md)
-  * [KAOS-1](projects/knight-air-observer-satellite-kaos/kaos-1.md)
-  * [KAOS-2](projects/knight-air-observer-satellite-kaos/kaos-2.md)
+* [Knight Satellite](projects/knight-satellite.md)
+* [Tethered Sat](projects/tethered-sat/README.md)
+  * [T-Sat-0](projects/tethered-sat/t-sat-0/README.md)
+    * [Launch Day](projects/tethered-sat/t-sat-0/launch-day.md)
+    * [Post Flight Results](projects/tethered-sat/t-sat-0/post-flight-results.md)
+  * [T-Sat-1](projects/tethered-sat/t-sat-1/README.md)
+    * [Weekly Project Updates](projects/tethered-sat/t-sat-1/weekly-project-updates.md)
+* [Knights Air Observer Satellite](projects/knights-air-observer-satellite/README.md)
+  * [KAOS-0](projects/knights-air-observer-satellite/kaos-0/README.md)
+    * [Post Flight Results](projects/knights-air-observer-satellite/kaos-0/post-flight-results.md)
+  * [KAOS-1](projects/knights-air-observer-satellite/kaos-1/README.md)
+    * [Launch Day](projects/knights-air-observer-satellite/kaos-1/launch-day.md)
+    * [Post Flight Results](projects/knights-air-observer-satellite/kaos-1/post-flight-results.md)
+  * [KAOS-2](projects/knights-air-observer-satellite/kaos-2.md)
 * [Orbital CubeSat](projects/orbital-cubesat.md)
-* [Ground Stations](projects/ground-stations.md)
+* [Ground Station](projects/ground-station/README.md)
+  * [Weekly Project Updates](projects/ground-station/weekly-project-updates.md)
+
+## Ballooning
+
+* [Moored Balloons](ballooning/moored-balloons.md)
+* [High Altitude Balloons](ballooning/high-altitude-balloons.md)
 
 ## Club Operations
 
-* [Board](club-operations/board.md)
-* [Committees](club-operations/committees.md)
-* [Fundraising](club-operations/fundraising.md)
+* [Board](club-operations/board/README.md)
+  * [President](club-operations/board/president.md)
+  * [Vice President](club-operations/board/vice-president.md)
+  * [Treasurer](club-operations/board/treasurer.md)
+  * [Secretary](club-operations/board/secretary.md)
+* [Committees](club-operations/committees/README.md)
+  * [Projects](club-operations/committees/projects.md)
+  * [Events](club-operations/committees/events.md)
+  * [Public Relations](club-operations/committees/public-relations.md)
+  * [Fundraising](club-operations/committees/fundraising.md)
+
+## Wiki Upkeep
+
+* [Templates](wiki-upkeep/templates.md)
+* [Themes](wiki-upkeep/themes.md)

@@ -4,7 +4,7 @@ The Board is made up of four Board Members, also known as Officers. Each Officer
 
 More details about Officer roles and elections can be found in the KSC Constitution:
 
-{% file src="../.gitbook/assets/Knights_Satellite_Club_Constitution.docx" %}
+{% file src="../../.gitbook/assets/Knights_Satellite_Club_Constitution.docx" %}
 Knights Satellite Club Constitution as of 2023
 {% endfile %}
 
@@ -106,5 +106,10 @@ The Treasurer is the link between the legal entity of KSC and the group of peopl
 * Provide all documents and records pertaining to their responsibilities to the newly-elected Secretary.
 * Assist in special projects as assigned by the President.
 
+***
 
+## Elections
 
+{% hint style="info" %}
+More Information Coming Soon
+{% endhint %}
