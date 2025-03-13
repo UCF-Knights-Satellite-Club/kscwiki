@@ -37,8 +37,8 @@
 * [Committees](club-operations/committees/README.md)
   * [Projects](club-operations/committees/projects.md)
   * [Events](club-operations/committees/events.md)
-  * [Public Relations](club-operations/committees/public-relations.md)
   * [Fundraising](club-operations/committees/fundraising.md)
+  * [Public Relations](club-operations/committees/public-relations.md)
 
 ## Wiki Upkeep
 

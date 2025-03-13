@@ -1,6 +1,6 @@
 # Committees
 
-Committees are a way for KSC members to get involved with the day-to-day operations of the organizations. Each committee is led by a Committee Chair who is appointed by the Board each semester.
+Committees are a way for Knight Satellite Club members to get involved with the day-to-day operations of the organizations. Each committee is led by a Committee Chair who is appointed by the Board each semester.
 
 * The Committee Chair
   * May only be appointed for 2 Semesters in a row.
@@ -13,7 +13,7 @@ Committees can be created, modified, or disbanded at any time at the discretion 
 
 ***
 
-## Projects Committee
+## [Projects Committee](broken-reference)
 
 **Reports to: President**
 
@@ -37,7 +37,7 @@ The Projects Committee oversees the direction and execution of all technical pro
 
 ***
 
-## Events Committee
+## [Events Committee](events.md)
 
 **Reports to: Vice President**
 
@@ -63,7 +63,28 @@ The Events Committee is responsible for the planning and execution of socials, G
 
 ***
 
-## Public Relations Committee
+## [Fundraising Committee](fundraising.md)
+
+**Reports to: Treasurer**
+
+The Fundraising Committee secures financial resources for KSC by organizing events, seeking sponsorships, and maintaining compliance with nonprofit regulations.
+
+### Responsibilities
+
+1. Sponsorships and Grants
+   1. Identify potential sponsors and collaborate with the Board to establish mutually beneficial relationships with sponsoring organizations.
+   2. Identify grants that KSC might be eligible for and work with the Board to submit any required applications or proposals.
+   3. Work with the Public Relations Committee to ensure sponsors are adequately recognized for their contributions.
+2. Fundraising Events
+   1. Collaborate with the Events Committee for integrated fundraising opportunities such as partial proceeds events.
+   2. Collaborate with the Public Relations Committee for tracking and collecting funds from merchandise sales.
+3. Record Keeping
+   1. Maintain detailed records of income and expenses for fundraising activities.
+   2. Regularly report progress to the Treasurer.
+
+***
+
+## [Public Relations Committee](public-relations.md)
 
 **Reports to: Secretary**
 
@@ -84,25 +105,4 @@ The Public Relations Committee maintains KSC's online presence and visual brandi
 3. Merchandise Management
    1. Design, produce, and distribute KSC merchandise.
    2. Collaborate with the Fundraising Committee for sales and inventory tracking.
-
-***
-
-## Fundraising Committee
-
-**Reports to: Treasurer**
-
-The Fundraising Committee secures financial resources for KSC by organizing events, seeking sponsorships, and maintaining compliance with nonprofit regulations.
-
-### Responsibilities
-
-1. Sponsorships and Grants
-   1. Identify potential sponsors and collaborate with the Board to establish mutually beneficial relationships with sponsoring organizations.
-   2. Identify grants that KSC might be eligible for and work with the Board to submit any required applications or proposals.
-   3. Work with the Public Relations Committee to ensure sponsors are adequately recognized for their contributions.
-2. Fundraising Events
-   1. Collaborate with the Events Committee for integrated fundraising opportunities such as partial proceeds events.
-   2. Collaborate with the Public Relations Committee for tracking and collecting funds from merchandise sales.
-3. Record Keeping
-   1. Maintain detailed records of income and expenses for fundraising activities.
-   2. Regularly report progress to the Treasurer.
 
