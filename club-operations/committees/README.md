@@ -37,7 +37,7 @@ The Projects Committee oversees the direction and execution of all technical pro
 
 ***
 
-## [Events Committee](events.md)
+## [Events Committee](events-committee.md)
 
 **Reports to: Vice President**
 
@@ -63,7 +63,7 @@ The Events Committee is responsible for the planning and execution of socials, G
 
 ***
 
-## [Fundraising Committee](fundraising.md)
+## [Fundraising Committee](../fundraising.md)
 
 **Reports to: Treasurer**
 
@@ -84,7 +84,7 @@ The Fundraising Committee secures financial resources for KSC by organizing even
 
 ***
 
-## [Public Relations Committee](public-relations.md)
+## [Public Relations Committee](public-relations-committee.md)
 
 **Reports to: Secretary**
 

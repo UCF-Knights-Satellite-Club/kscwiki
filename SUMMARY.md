@@ -35,10 +35,11 @@
   * [Treasurer](club-operations/board/treasurer.md)
   * [Secretary](club-operations/board/secretary.md)
 * [Committees](club-operations/committees/README.md)
-  * [Projects](club-operations/committees/projects.md)
-  * [Events](club-operations/committees/events.md)
-  * [Fundraising](club-operations/committees/fundraising.md)
-  * [Public Relations](club-operations/committees/public-relations.md)
+  * [Projects Committee](club-operations/committees/projects-committee.md)
+  * [Events Committee](club-operations/committees/events-committee.md)
+  * [Public Relations Committee](club-operations/committees/public-relations-committee.md)
+  * [Fundraising Committee](club-operations/committees/fundraising-committee.md)
+* [Fundraising](club-operations/fundraising.md)
 
 ## Wiki Upkeep
 
