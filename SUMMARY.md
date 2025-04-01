@@ -9,6 +9,7 @@
   * [T-Sat-0](projects/tethered-sat/t-sat-0/README.md)
     * [Launch Day](projects/tethered-sat/t-sat-0/launch-day.md)
     * [Post Flight Results](projects/tethered-sat/t-sat-0/post-flight-results.md)
+    * [Software](projects/tethered-sat/t-sat-0/software.md)
   * [T-Sat-1](projects/tethered-sat/t-sat-1/README.md)
     * [Weekly Project Updates](projects/tethered-sat/t-sat-1/weekly-project-updates.md)
 * [Knights Air Observer Satellite](projects/knights-air-observer-satellite/README.md)
