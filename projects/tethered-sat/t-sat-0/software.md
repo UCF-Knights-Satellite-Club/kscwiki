@@ -38,7 +38,9 @@ The ArduCam makes taking images extremely simple. JPEG encoded image data is cop
 
 ## Burnwire Receive ([burnwire\_recv](https://github.com/UCF-Knights-Satellite-Club/Tethered-Sat-0/blob/main/software/burnwire_recv/burnwire_recv.ino))
 
-
+The Arduino program for T-sat 0 listens for a specific message from its ground station via (RH\_RF95) When it receives this message it activates a burn wire, which will cut and detach the T-sat from the ballon. It also sends a message back to ground confirming the burn process.
 
 ## Burnwire Send ([burnwire\_send](https://github.com/UCF-Knights-Satellite-Club/Tethered-Sat-0/blob/main/software/burnwire_send/burnwire_send.ino))
+
+This Arduino program for T-sat 0 ground station, When a button is pressed, it sends the message ("BurnWire") to the T-sat using the RH\_RF95 LoRa radio module. it also turns on an LED indicating that the message is being sent, and waits for a reply from T-sat to confirm the burn process.&#x20;
 
