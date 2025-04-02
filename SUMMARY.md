@@ -22,6 +22,8 @@
 * [Orbital CubeSat](projects/orbital-cubesat.md)
 * [Ground Station](projects/ground-station/README.md)
   * [Weekly Project Updates](projects/ground-station/weekly-project-updates.md)
+  * [Engineering Ground Station](projects/ground-station/engineering-ground-station.md)
+  * [Physics Ground Station](projects/ground-station/physics-ground-station.md)
 
 ## Ballooning
 
