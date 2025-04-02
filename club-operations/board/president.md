@@ -1,3 +1,7 @@
+---
+description: Description and responsibilities of the President within KSC.
+---
+
 # President
 
 ### RSO Upkeep Responsibilities

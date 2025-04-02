@@ -1,3 +1,7 @@
+---
+description: Description and responsibilities of the Treasurer within KSC.
+---
+
 # Treasurer
 
 ### Responsibilities

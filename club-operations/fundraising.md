@@ -1,5 +1,5 @@
 ---
-description: Building CubeSats isn't cheap! Here's how we make it happen.
+description: Details and documentation on how KSC raises the money to accomplish our goals.
 ---
 
 # Fundraising

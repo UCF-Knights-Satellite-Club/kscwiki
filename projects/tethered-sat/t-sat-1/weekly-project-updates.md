@@ -1,2 +1,0 @@
-# Weekly Project Updates
-

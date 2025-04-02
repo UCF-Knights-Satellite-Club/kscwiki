@@ -1,3 +1,7 @@
+---
+description: Description and responsibilities of the Vice President within KSC.
+---
+
 # Vice President
 
 ### Responsibilities

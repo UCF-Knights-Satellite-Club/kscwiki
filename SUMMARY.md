@@ -4,26 +4,31 @@
 
 ## Projects
 
-* [Knight Satellite](projects/knight-satellite.md)
-* [Tethered Sat](projects/tethered-sat/README.md)
-  * [T-Sat-0](projects/tethered-sat/t-sat-0/README.md)
-    * [Launch Day](projects/tethered-sat/t-sat-0/launch-day.md)
-    * [Post Flight Results](projects/tethered-sat/t-sat-0/post-flight-results.md)
-    * [Software](projects/tethered-sat/t-sat-0/software.md)
-  * [T-Sat-1](projects/tethered-sat/t-sat-1/README.md)
-    * [Weekly Project Updates](projects/tethered-sat/t-sat-1/weekly-project-updates.md)
-* [Knights Air Observer Satellite](projects/knights-air-observer-satellite/README.md)
-  * [KAOS-0](projects/knights-air-observer-satellite/kaos-0/README.md)
-    * [Post Flight Results](projects/knights-air-observer-satellite/kaos-0/post-flight-results.md)
-  * [KAOS-1](projects/knights-air-observer-satellite/kaos-1/README.md)
-    * [Launch Day](projects/knights-air-observer-satellite/kaos-1/launch-day.md)
-    * [Post Flight Results](projects/knights-air-observer-satellite/kaos-1/post-flight-results.md)
-  * [KAOS-2](projects/knights-air-observer-satellite/kaos-2.md)
+* [Tethered Satellite](projects/tethered-satellite/README.md)
+  * [T-Sat-0](projects/tethered-satellite/t-sat-0/README.md)
+    * [Hardware](projects/tethered-satellite/t-sat-0/hardware.md)
+    * [Electronics](projects/tethered-satellite/t-sat-0/electronics.md)
+    * [Software](projects/tethered-satellite/t-sat-0/software.md)
+    * [Flight Results](projects/tethered-satellite/t-sat-0/flight-results.md)
+    * [Launch Day](projects/tethered-satellite/t-sat-0/launch-day.md)
+  * [T-Sat-1](projects/tethered-satellite/t-sat-1/README.md)
+    * [Weekly Project Updates](projects/tethered-satellite/t-sat-1/weekly-project-updates.md)
+* [Knights Air Observation Satellite](projects/knights-air-observation-satellite/README.md)
+  * [KAOS-0](projects/knights-air-observation-satellite/kaos-0/README.md)
+    * [Post Flight Results](projects/knights-air-observation-satellite/kaos-0/post-flight-results.md)
+  * [KAOS-1](projects/knights-air-observation-satellite/kaos-1/README.md)
+    * [Launch Day](projects/knights-air-observation-satellite/kaos-1/launch-day.md)
+    * [Post Flight Results](projects/knights-air-observation-satellite/kaos-1/post-flight-results.md)
+  * [KAOS-2](projects/knights-air-observation-satellite/kaos-2.md)
 * [Orbital CubeSat](projects/orbital-cubesat.md)
-* [Ground Station](projects/ground-station/README.md)
-  * [Weekly Project Updates](projects/ground-station/weekly-project-updates.md)
-  * [Engineering Ground Station](projects/ground-station/engineering-ground-station.md)
-  * [Physics Ground Station](projects/ground-station/physics-ground-station.md)
+* [Ground Stations](projects/ground-stations/README.md)
+  * [Weekly Project Updates](projects/ground-stations/weekly-project-updates.md)
+  * [Engineering Ground Station](projects/ground-stations/engineering-ground-station.md)
+  * [Physics Ground Station](projects/ground-stations/physics-ground-station.md)
+
+***
+
+* [Knight Satellite](knight-satellite.md)
 
 ## Ballooning
 

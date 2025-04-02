@@ -1,3 +1,7 @@
+---
+description: Description and responsibilities of the Secretary within KSC.
+---
+
 # Secretary
 
 ### Responsibilities

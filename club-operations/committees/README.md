@@ -1,3 +1,7 @@
+---
+description: Details on how Committees function within KSC.
+---
+
 # Committees
 
 Committees are a way for Knight Satellite Club members to get involved with the day-to-day operations of the organizations. Each committee is led by a Committee Chair who is appointed by the Board each semester.

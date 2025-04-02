@@ -1,3 +1,7 @@
+---
+description: Details about how the leadership within KSC is structured.
+---
+
 # Board
 
 The Board is made up of four Board Members, also known as Officers. Each Officer has a unique and critical role in keeping KSC running smoothly. Officers are elected by KSC Members in April and serve a one year term. The Board in turn creates and manages Committees to assist in completing their tasks. The Board is also responsible for keeping KSC's Faculty Advisors informed about all activities. Each Officer must be registered with UCF Student Government (SG) which regulates the **Knights Satellite Club** Registered Student Organization (RSO), and registered with the Florida Department of State's Division of Corporations which regulates the **Knights Satellite Club Inc.** not for profit corporation. Serving on the Board is a significant commitment and will require working with many individuals and organizations within and beyond UCF.
