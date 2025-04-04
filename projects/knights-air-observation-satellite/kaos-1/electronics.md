@@ -56,6 +56,12 @@ The Primary Board holds the ESP32 microcontroller, a MicroSD reader, a PCF8523 r
 
 Both ArduCams share the VSPI bus, and the MicroSD card uses the HSPI bus. Both busses are implemented in hardware on the ESP32. All other peripherals communicate over I2C. Several GPIO pins go to the sensor board for interrupts and analog readings. There is also a resistor divider to measure the unregulated battery voltage.
 
+### ESP32 Pin Numbers
+
+<table data-full-width="true"><thead><tr><th width="125">Pin</th><th>Description</th></tr></thead><tbody><tr><td>4</td><td>ArduCam A chip select</td></tr><tr><td>5</td><td>ArduCam B chip select</td></tr><tr><td>12</td><td>HSPI MISO</td></tr><tr><td>13</td><td>HSPI MOSI</td></tr><tr><td>14</td><td>HSPI CLK</td></tr><tr><td>15</td><td>SD card chip select</td></tr><tr><td>18</td><td>VSPI CLK</td></tr><tr><td>19</td><td>VSPI MISO</td></tr><tr><td>21</td><td>I2C SDA</td></tr><tr><td>22</td><td>I2C SCL</td></tr><tr><td>23</td><td>VSPI MOSI</td></tr><tr><td>25</td><td>Piezoelectric buzzer</td></tr><tr><td>27</td><td>SCD-30 RDY</td></tr><tr><td>32</td><td>BMP388 INT</td></tr><tr><td>33</td><td>External thermistor measurement</td></tr><tr><td>34</td><td>Battery voltage measurement</td></tr></tbody></table>
+
+VSPI and HSPI pins are the same as the default configuration for both busses.
+
 ### Errata
 
 The HSPI bus is used by the ESP32 during boot. If the SD card has been initialized and there is a reset, the ESP32 may crash with invalid header messages. More research and testing is needed on this.
