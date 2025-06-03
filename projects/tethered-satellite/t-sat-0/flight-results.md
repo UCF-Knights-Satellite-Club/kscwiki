@@ -6,11 +6,11 @@ description: Results collected from the 2/20/25 test flight of T-Sat-0.
 
 ## Overview
 
-T-Sat-0 took flight from the UCF Arboretum on the morning of February 20th, 2025. The same balloon was used for two flights. The parachute deployed early on both flights, and the burn wire detachment system was used successfully on the second flight.
+T-Sat-0 took flight from the UCF Arboretum on the morning of January 20th, 2025. The same balloon was used for two flights. The parachute deployed early on both flights, and the burn wire detachment system was used successfully on the second flight.
 
 ## Flight 1
 
-T-Sat-0 took flight from the UCF Arboretum on February 20th, 2025. The same balloon was used for two flights. The first carried T-Sat-0 and MEDUSA, a Muon detection experiment from the UCF Astronomy Society.
+The first flight carried T-Sat-0 and MEDUSA, a Muon detection experiment from the UCF Astronomy Society.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUd8SLsFXmzLgcJlfuuGiut_mIRI69Z8u4LFxUNOFM3BSQXa5u0qUmCEFopCLExlolKLiJrCVeXmgi7PlnLI0w26DqenlX8qEG2_hldlO8pG6QfwTnsH5-X3GaucxUq_B4VEyNBq=s2048?key=I-AHlkPXxM43iLi55J0ynzKH" alt=""><figcaption><p>Altitude graph for flight 1 of T-Sat-0. Measured in m.</p></figcaption></figure>
 
@@ -42,11 +42,11 @@ Once the balloon was reeled in, MEDUSA and some rigging hardware was removed. Th
 
 This flight overcame the winds and achieved a max altitude of 119m (390ft) before the burn wire was remotely triggered and T-Sat-0 detached from the balloon. Unfortunately, the payload drifted to a paved area and was destroyed when it hit a concrete loading dock.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Acceleration graph for flight 2 of T-Sat-0. Measured in m/s/s.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Acceleration graph for flight 2 of T-Sat-0. Measured in m/s/s.</p></figcaption></figure>
 
 Again, rough conditions and inconsistent tether release caused the accelerometer reading to go below threshold and activate the parachute. The early deployment caused the excessive drift which led to the destruction of the payload.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Ascent velocity graph for flight 2 of T-Sat-0. Measured in m/s.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Ascent velocity graph for flight 2 of T-Sat-0. Measured in m/s.</p></figcaption></figure>
 
 The ascent velocity dipped below the -5m/s threshold only after the burn wire had triggered. Based on this, we can conclude that had we only relied on the velocity data the parachute deployment would have likely worked correctly. This graph shows that T-Sat-0 was falling at 6m/s after the parachute deployed.
 
