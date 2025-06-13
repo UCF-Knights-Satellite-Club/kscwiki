@@ -81,3 +81,8 @@ T-Sat-0 was flown with a 600g weather balloon filled with a 125 cubic foot tank 
 <div data-full-width="false"><figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>T-Sat-0 being lifted simultaneously with another clubs payload. The parachute deployed prematurely due to acceleration readings that triggered our <a href="./#software">freefall detection</a> threshold.</p></figcaption></figure></div>
 
 Another key component within the rigging was a 3D printed stabilizer that can be seen in the image above. This was necessary as we were flying another payload belonging to another club and wanted to avoid tangling.&#x20;
+
+With 3D-printing being our means of manufacturing. Our mechanical team decided on using PLA filament, as it is a budget-friendly prototyping option. Allowing there to be a bit of leniency when it came to adjusting any errors that showed up, such as incorrect measurements or mishaps in the design process. With PLA filament also gives us the ability to create spare parts as needed. Even so, PLA did have its downsides when it came to the rigidity and durability of the prints. In which our mechanical team took notice and decided to change to a PETG filament, relieving such problems. In turn, making our final material of choosing to be PETG.
+
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Flight Day Final Assembly</p></figcaption></figure>
+

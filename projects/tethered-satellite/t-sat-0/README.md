@@ -33,7 +33,7 @@ During the initial research phase, the team evaluated various deployment methods
 The team embarked on designing the parachute deployment system (PDS), opting for an open-top canister design equipped with a spring-activated platform. This design aimed to facilitate efficient deployment while maintaining a minimal footprint. Multiple iterations of the PDS were created using 3D printing manufacturing, allowing the team to refine the design, reduce complexity, and enhance functionality. It was tested extensively through drop tests at a four story parking garage on campus. After a couple of failed deployments, and as a result broken parts, the team started using a large tablecloth held by two members to catch T-Sat to prevent damage during testing. This helped greatly and reduced the downtime between tests because of broken panels or parts that needed to be replaced with spare components.\
 
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Final CAD assembly of T-Sat-0 PDS</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/t_sat_0_parachute.png" alt=""><figcaption><p>Final CAD assembly of T-Sat-0 PDS</p></figcaption></figure>
 
 **Finalization**
 
