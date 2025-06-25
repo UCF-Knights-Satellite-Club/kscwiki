@@ -15,6 +15,8 @@
     * [Electronics](projects/tethered-satellite/t-sat-1/electronics.md)
     * [Software](projects/tethered-satellite/t-sat-1/software.md)
     * [Flight Results](projects/tethered-satellite/t-sat-1/flight-results.md)
+  * [T-Sat-2](projects/tethered-satellite/t-sat-2/README.md)
+    * [Weekly Reports](projects/tethered-satellite/t-sat-2/weekly-reports.md)
 * [Knights Air Observation Satellite](projects/knights-air-observation-satellite/README.md)
   * [KAOS-0](projects/knights-air-observation-satellite/kaos-0/README.md)
     * [Post Flight Results](projects/knights-air-observation-satellite/kaos-0/post-flight-results.md)

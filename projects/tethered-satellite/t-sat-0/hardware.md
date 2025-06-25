@@ -36,7 +36,7 @@ A critical component for any flight ready CubeSat is a remove before flight pin 
 
 ### Battery Panel
 
-To securely store our battery while having easy access to remove it for charging we added space for 4x 3mm heat pressed threaded inserts that were used to bolt a back plate to the panel. At the bottom of left corner of the raised battery compartment we added a cutout for the battery cable to run to our PCB.
+To securely store our battery while having easy access to remove it for charging we added space for x4 3mm heat pressed threaded inserts that were used to bolt a back plate to the panel. At the bottom of left corner of the raised battery compartment we added a cutout for the battery cable to run to our PCB.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/Battery Panel I.png" alt="" width="375"><figcaption><p>Front of battery panel for T-Sat-0</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Battery Panel I (1) (1).png" alt="" width="375"><figcaption><p>Rear of panel</p></figcaption></figure></div>
 

@@ -16,7 +16,7 @@ Beyond being a training ground, Tethered-Sat also serves as a technical pipeline
 
 Additionally, T-Sat plays a vital role in the club’s research and development strategy. The platform is used to test experimental payloads, validate subsystems, and prototype new technologies before they are integrated into orbital missions. This makes Tethered-Sat not only an educational tool, but also a key component of the club’s iterative design philosophy and mission readiness pipeline.\
 \
-Tethered-Sat-0 (T-Sat-0) was the Knights Satellite Club's first iteration of the greater T-Sat Project. From Project Fruition to launch took a little over 3 semesters to complete. Moving forward T-Sat versions will follow a more rapid turnaround period to launch within a single semester or two depending on the demands of the experiment. With the structure, documentation, and launch operations developed during T-Sat-0 this goal will be attainable during future versions.
+Tethered-Sat-0 (T-Sat-0) was the Knights Satellite Club's first iteration of the greater T-Sat Project. From project fruition to launch took a little over 3 semesters to complete. Moving forward T-Sat versions will follow a more rapid turnaround period to launch within a single semester or two depending on the demands of the experiment. With the structure, documentation, and launch operations developed during T-Sat-0 this goal will be attainable during future versions.
 
 ## Mechanical&#x20;
 
