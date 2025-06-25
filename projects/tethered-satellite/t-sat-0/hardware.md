@@ -14,7 +14,7 @@ Our mechanical team worked on and iterated design using [OnShape](https://www.on
 
 The housing used for T-Sat-0 was a[ Universal 1U](https://www.thingiverse.com/thing:4096437) (10x10x10 cm) found on Thingiverse. It was printed in PETG and contained slots for M3 nuts and bolts for attaching each panel.
 
-<figure><img src="../../../.gitbook/assets/Full Structure (1).png" alt="" width="375"><figcaption><p>Isometric view of the Universal 1U structure</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Full Structure (1) (1).png" alt="" width="375"><figcaption><p>Isometric view of the Universal 1U structure</p></figcaption></figure>
 
 Each of our panels was specifically designed to be mounted to our housing with its pre-dimensioned through holes as listed on the drawing on the housing page on Thingiverse.&#x20;
 
@@ -52,7 +52,7 @@ The Arducam was secured with a back plate that was taped to the panel itself and
 
 The top panel contained four loops on the corners of the panel for the tether to attach to T-Sat and run to the burn wire. Ultimately, the team found that it was best to only use two loops with [#18 braided nylon](https://www.amazon.com/Romeda-Construction-Gardening-Braided-Masonry/dp/B0D2K7RHR5?ref_=pd_ci_mcx_mh_pe_im_d1_hxwPPE_sspa_dk_det_cav_p_11_2\&pd_rd_i=B0D2K7RHR5\&pd_rd_w=thncR\&content-id=amzn1.sym.57b80066-10e8-4be7-a5f2-ce3f1faa4959\&pf_rd_p=57b80066-10e8-4be7-a5f2-ce3f1faa4959\&pf_rd_r=Q3F7SKSMM5YVYR5YEBS8\&pd_rd_wg=5kU0R\&pd_rd_r=bc37c5ec-d1c4-4b6a-b0cd-4aca939d94ee\&th=1) tied between them with enough slack that the nylon would fall to the side and avoid blocking the PDS. The PDS was also mounted alongside the top panel using two of the corner bolt holes and nuts on the inside of the structure. This panel undertook few iterations as its requirements were very straightforward. One of which was adding fillets to the base of each loop to increase their tensile loading abilities.
 
-<figure><img src="../../../.gitbook/assets/Top Panel (1).png" alt="" width="375"><figcaption><p>Isometric view of top panel for T-Sat-0</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Top Panel (1) (1).png" alt="" width="375"><figcaption><p>Isometric view of top panel for T-Sat-0</p></figcaption></figure>
 
 ### Bottom Panel
 
