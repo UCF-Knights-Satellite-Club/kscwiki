@@ -54,6 +54,8 @@ The ascent velocity dipped below the -5m/s threshold only after the burn wire ha
 
 For this flight, the temperature clearly follows the altitude. Contrary to expectations, the temperature rose with altitude. This may be due to ground absorbing heat after the cold night.
 
+{% embed url="https://youtu.be/onVDhV9x5Wg" %}
+
 ## Lessons Learned
 
 This was the first balloon flight from KSC. Lots of things went wrong but it was overall very successful. Here is what we want to improve on:
