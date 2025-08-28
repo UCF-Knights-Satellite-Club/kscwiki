@@ -3,20 +3,6 @@ description: Overview of the Tethered Sat program.
 icon: balloon
 cover: ../../.gitbook/assets/IMG_9382.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Tethered Satellite

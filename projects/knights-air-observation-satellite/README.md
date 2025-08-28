@@ -3,20 +3,6 @@ description: Overview of the Knight Air Observation Satellite program.
 icon: cloud
 cover: ../../.gitbook/assets/IMG_1724.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Knights Air Observation Satellite
