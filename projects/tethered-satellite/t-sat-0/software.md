@@ -1,5 +1,7 @@
 ---
-description: Details about the software used for T-Sat-0.
+description: >-
+  Details about the T-Sat-0 flight and ground software running on ESP32 and
+  Seeeduino XIAO microcontrollers.
 ---
 
 # Software
