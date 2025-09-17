@@ -4,7 +4,24 @@ description: >-
   Knights Satellite Club.
 icon: hand-wave
 cover: .gitbook/assets/IMG_1725.jpg
-coverY: 0
+coverY: 167.12368967866036
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Welcome to the KSC Wiki
