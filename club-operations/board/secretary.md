@@ -17,9 +17,6 @@ description: Description and responsibilities of the Secretary within KSC.
 * Provide all documents and records pertaining to their responsibilities to the newly-elected Secretary.
 * Assist in special projects as assigned by the President.
 
+***
+
 ### Public Relations Responsibilities
-
-*
-
-
-

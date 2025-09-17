@@ -43,9 +43,6 @@ description: Description and responsibilities of the Treasurer within KSC.
   * Anyone with access to the bank account (minimum President and Treasurer) must complete [financial training](https://asf.sdes.ucf.edu/training/) and be listed on banking letter
   * Once form has been approved, take form to the campus FAIRWINDS branch to have the account transferred over
 
+***
+
 ### Fundraising Responsibilities
-
-*
-
-
-

@@ -42,11 +42,11 @@ Once the balloon was reeled in, MEDUSA and some rigging hardware was removed. Th
 
 This flight overcame the winds and achieved a max altitude of 119m (390ft) before the burn wire was remotely triggered and T-Sat-0 detached from the balloon. Unfortunately, the payload drifted to a paved area and was destroyed when it hit a concrete loading dock.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Acceleration graph for flight 2 of T-Sat-0. Measured in m/s/s.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Acceleration graph for flight 2 of T-Sat-0. Measured in m/s/s.</p></figcaption></figure>
 
 Again, rough conditions and inconsistent tether release caused the accelerometer reading to go below threshold and activate the parachute. The early deployment caused the excessive drift which led to the destruction of the payload.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Ascent velocity graph for flight 2 of T-Sat-0. Measured in m/s.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Ascent velocity graph for flight 2 of T-Sat-0. Measured in m/s.</p></figcaption></figure>
 
 The ascent velocity dipped below the -5m/s threshold only after the burn wire had triggered. Based on this, we can conclude that had we only relied on the velocity data the parachute deployment would have likely worked correctly. This graph shows that T-Sat-0 was falling at 6m/s after the parachute deployed.
 

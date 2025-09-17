@@ -38,11 +38,11 @@
     * [Launch Day](projects/knights-air-observation-satellite/kaos-1/launch-day.md)
     * [Post Flight Results](projects/knights-air-observation-satellite/kaos-1/post-flight-results.md)
   * [KAOS-2](projects/knights-air-observation-satellite/kaos-2.md)
-* [Orbital CubeSat](projects/orbital-cubesat.md)
 * [Ground Stations](projects/ground-stations/README.md)
   * [Weekly Project Updates](projects/ground-stations/weekly-project-updates.md)
   * [Engineering Ground Station](projects/ground-stations/engineering-ground-station.md)
   * [Physics Ground Station](projects/ground-stations/physics-ground-station.md)
+* [Orbital CubeSat](projects/orbital-cubesat.md)
 
 ***
 
@@ -50,16 +50,17 @@
 
 ## Ballooning
 
+* [General Ballooning Information](ballooning/general-ballooning-information.md)
 * [Moored Balloons](ballooning/moored-balloons.md)
-* [High Altitude Balloons](ballooning/high-altitude-balloons.md)
+* [High Altitude Free Balloons](ballooning/high-altitude-free-balloons.md)
 
 ## Club Operations
 
 * [Board](club-operations/board/README.md)
   * [President](club-operations/board/president.md)
   * [Vice President](club-operations/board/vice-president.md)
-  * [Treasurer](club-operations/board/treasurer.md)
   * [Secretary](club-operations/board/secretary.md)
+  * [Treasurer](club-operations/board/treasurer.md)
 * [Committees](club-operations/committees/README.md)
   * [Projects Committee](club-operations/committees/projects-committee.md)
   * [Events Committee](club-operations/committees/events-committee.md)

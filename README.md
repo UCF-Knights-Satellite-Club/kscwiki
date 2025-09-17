@@ -3,7 +3,7 @@ description: >-
   The hub for all technical, organizational, and operational information about
   Knights Satellite Club.
 icon: hand-wave
-cover: .gitbook/assets/IMG_7322.jpg
+cover: .gitbook/assets/IMG_1725.jpg
 coverY: 0
 ---
 

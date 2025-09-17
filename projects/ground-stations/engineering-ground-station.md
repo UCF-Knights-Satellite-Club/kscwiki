@@ -20,7 +20,7 @@ This custom option was chosen to build experience with the Pico, train members o
 
 The G-5500 instruction manual briefly describes the external control interface. The DIN cable colors are specific to our cable breakout, I am not sure if they are standard.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>G-5500 external control interface diagram from instruction manual.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>G-5500 external control interface diagram from instruction manual.</p></figcaption></figure>
 
 <table><thead><tr><th width="63">Pin</th><th width="110">DIN Color</th><th>Function from Manual</th></tr></thead><tbody><tr><td>1</td><td>Brown</td><td>Provides 2 to 4.5 VDC corresponding to 0° to 180° (elevation)</td></tr><tr><td>2</td><td>Green</td><td>Connect to Pin 8 to rotate right (clockwise)</td></tr><tr><td>3</td><td>White</td><td>Connect to Pin 8 to rotate up</td></tr><tr><td>4</td><td>Blue</td><td>Connect to Pin 8 to rotate left (counterclockwise)</td></tr><tr><td>5</td><td>Yellow</td><td>Connect to Pin 8 to rotate down</td></tr><tr><td>6</td><td>Black</td><td>Provides 2 to 4.5 VDC corresponding to 0° to 450° (azimuth)</td></tr><tr><td>7</td><td>Red</td><td>Provides DC 13 V to 8 V at up to 100 mA</td></tr><tr><td>8</td><td>Gray</td><td>Common ground</td></tr></tbody></table>
 
@@ -34,7 +34,7 @@ We had hoped that switching pins on the Pico between low and high or input (low 
 
 The only difference between our test circuit and an example K3NG rotator diagram is a capacitor between the control line and ground just before the transistor. I am not sure why this would make a difference but it will be tested.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>K3NG rotator circuit from the <a href="https://blog.radioartisan.com/arduino_rotator_controller/">Radio Artisan Blog</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>K3NG rotator circuit from the <a href="https://blog.radioartisan.com/arduino_rotator_controller/">Radio Artisan Blog</a></p></figcaption></figure>
 
 ## Useful Links
 
