@@ -1,7 +1,7 @@
 ---
 description: Overview of the Knight Air Observation Satellite program.
 icon: cloud
-cover: ../../.gitbook/assets/IMG_1724.jpg
+cover: ../../.gitbook/assets/KAOS-log145_pic101b.jpg
 coverY: 0
 ---
 

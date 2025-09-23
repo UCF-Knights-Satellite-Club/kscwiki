@@ -26,6 +26,10 @@ Project Timeline Update:
 
 Insert Pictures/Videos
 
+{% include "../.gitbook/includes/t-sat-weekly-updates.md" %}
+
+
+
 ***
 
 

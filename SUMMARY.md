@@ -23,7 +23,7 @@
       * [Hardware](projects/tethered-satellite/t-sat-2/t-sat-2-project-a/hardware.md)
       * [Flight Results](projects/tethered-satellite/t-sat-2/t-sat-2-project-a/flight-results.md)
     * [T-Sat-2 Project B](projects/tethered-satellite/t-sat-2/t-sat-2-project-b/README.md)
-      * [TSAT 2-B Weekly Reports](projects/tethered-satellite/t-sat-2/t-sat-2-project-b/tsat-2-b-weekly-reports.md)
+      * [Weekly Reports](projects/tethered-satellite/t-sat-2/t-sat-2-project-b/weekly-reports.md)
       * [Software](projects/tethered-satellite/t-sat-2/t-sat-2-project-b/software.md)
       * [Electronics](projects/tethered-satellite/t-sat-2/t-sat-2-project-b/electronics.md)
       * [Hardware](projects/tethered-satellite/t-sat-2/t-sat-2-project-b/hardware.md)
