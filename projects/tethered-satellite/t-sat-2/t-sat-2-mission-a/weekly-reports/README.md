@@ -1,7 +1,6 @@
 ---
-description: >-
-  Team reports which cover each subsystems progress done from the two weekly
-  meetings.
+description: Team reports which cover each subsystems progress.
+hidden: true
 ---
 
 # Weekly Reports
@@ -14,7 +13,7 @@ This mission is actively happening this Fall 25' with more information to be pub
 
 <summary>Week 1 (9/16/25)</summary>
 
-{% include "../../../../.gitbook/includes/t-sat-weekly-updates.md" %}
+{% include "../../../../../.gitbook/includes/t-sat-weekly-updates.md" %}
 
 </details>
 
