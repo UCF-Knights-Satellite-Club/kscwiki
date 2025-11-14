@@ -26,7 +26,7 @@ layout:
 
 # Welcome to the KSC Wiki
 
-We are Knights Satellite Club, the University of Central Florida's student-led CubeSat program. This is where we document everything about what we do to the benefit of anyone.
+We are the Knights Satellite Club, the University of Central Florida's student-led CubeSat program. This is where we document everything about what we do to the benefit of anyone.
 
 ## Who is this for?
 
