@@ -44,10 +44,7 @@
   * [Engineering Ground Station](projects/ground-stations/engineering-ground-station.md)
   * [Physics Ground Station](projects/ground-stations/physics-ground-station.md)
 * [Orbital CubeSat](projects/orbital-cubesat.md)
-
-***
-
-* [Knight Satellite](knight-satellite.md)
+* [Knight Satellite](projects/knight-satellite.md)
 
 ## Ballooning
 
