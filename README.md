@@ -4,7 +4,7 @@ description: >-
   Knights Satellite Club.
 icon: hand-wave
 cover: .gitbook/assets/IMG_0800.jpg
-coverY: 0
+coverY: 23.900817529783613
 layout:
   width: default
   cover:
