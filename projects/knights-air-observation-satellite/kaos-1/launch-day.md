@@ -6,19 +6,19 @@ In the week leading up to the scheduled launch day, Nathan, the KAOS-1 Project L
 
 The Knights Satellite Club was looking at a few possible launch locations two days before launch: Econ River Wilderness Area, Sunrise Community Park, Sanlando Park, and the Oviedo Sports Complex.
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <p align="center">Figure 1: Launch Trajectory From Econ River Wilderness Area (28.6134, -81.1742)</p>
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 <p align="center">Figure 2: Launch Trajectory From Sunrise Community Park (28.6523, -81.2585)</p>
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 <p align="center">Figure 3: Launch Trajectory From Sanlando Park (28.6759, -81.3964)</p>
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 <p align="center">Figure 4: Launch Trajectory From Oveido Sports Complex (28.6692, -81.1872)</p>
 
@@ -28,11 +28,11 @@ On August 29th, 2025, the Econ River Wilderness Area was chosen as the best-suit
 
 {% columns %}
 {% column %}
-<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 

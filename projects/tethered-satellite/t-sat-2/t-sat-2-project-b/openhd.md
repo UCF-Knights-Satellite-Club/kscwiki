@@ -51,7 +51,7 @@ a picture of the diagram of the back connections of the Pi.
 
 <figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-When we stripped the wires of the USB-to-Micro-USB adapter, we followed the Pi diagram to solder the Data+ wire to Data+ connector, Data- wire to Data- connector, Ground to Ground, and %v to the 5V. The reason this is advised is that the Pi itself can’t provide enough power to the WIFI adapter through the Micro-USB port, so soldering it to the 5V connector at the back of the Pi is the best way to bypass this issue. It is also recommended to have a separate battery for the WIFI adapter to properly power it, but for the purposes of T-Sat2B, we decided to have a large battery power both components, but this choice gave us a flight limit of around 32 minutes.
+When we stripped the wires of the USB-to-Micro-USB adapter, we followed the Pi diagram to solder the Data+ wire to Data+ connector, Data- wire to Data- connector, Ground to Ground, and 5V to the 5V. The reason this is advised is that the Pi itself can’t provide enough power to the WIFI adapter through the Micro-USB port, so soldering it to the 5V connector at the back of the Pi is the best way to bypass this issue. It is also recommended to have a separate battery for the WIFI adapter to properly power it, but for the purposes of T-Sat2B, we decided to have a large battery power both components, but this choice gave us a flight limit of around 32 minutes.
 
 For more information about the wiring, check out the “Wiring” section on the OpenHD website.
 
