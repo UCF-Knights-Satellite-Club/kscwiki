@@ -5,23 +5,6 @@ description: >-
 icon: hand-wave
 cover: .gitbook/assets/IMG_0800.jpg
 coverY: 35.851188305373206
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Welcome to the KSC Wiki

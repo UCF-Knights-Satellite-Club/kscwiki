@@ -17,7 +17,7 @@ Committees can be created, modified, or disbanded at any time at the discretion 
 
 ***
 
-## [Projects Committee](broken-reference)
+## [Projects Committee](/broken/pages/2QeWCoqxiwlUv5XNVBQP)
 
 **Reports to: President**
 

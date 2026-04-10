@@ -1,5 +1,6 @@
 ---
 description: Weekly Reports for TSAT - 2B
+hidden: true
 ---
 
 # Weekly Reports

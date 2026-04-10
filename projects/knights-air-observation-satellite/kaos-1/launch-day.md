@@ -6,19 +6,19 @@ In the week leading up to the scheduled launch day, Nathan, the KAOS-1 Project L
 
 The Knights Satellite Club was looking at a few possible launch locations two days before launch: Econ River Wilderness Area, Sunrise Community Park, Sanlando Park, and the Oviedo Sports Complex.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 <p align="center">Figure 1: Launch Trajectory From Econ River Wilderness Area (28.6134, -81.1742)</p>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 <p align="center">Figure 2: Launch Trajectory From Sunrise Community Park (28.6523, -81.2585)</p>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 <p align="center">Figure 3: Launch Trajectory From Sanlando Park (28.6759, -81.3964)</p>
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 <p align="center">Figure 4: Launch Trajectory From Oveido Sports Complex (28.6692, -81.1872)</p>
 
@@ -28,11 +28,11 @@ On August 29th, 2025, the Econ River Wilderness Area was chosen as the best-suit
 
 {% columns %}
 {% column %}
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -44,7 +44,9 @@ The morning on August 30th, 2025, the Knights Satellite Club drove out to the Ec
 
 ### Payload Preparation
 
+More in depth technical regulations and HAB launching information can be found [here](../../../ballooning/high-altitude-free-balloons.md). The final additions made to the payload leading up to or on launch day were minor and made intentionally to not interfere with any systems onboard the payload. This included attaching dense foam to the bottom and some of the edges of the payload bus to help with ground impact. Taping a sheet of paper to the top of the bus stating that what the box was and our contact info to aid with recovery if a pedestrian found the project before we got to it. The final preparations included rigging the payload with masonry line and 3D printed PETG O-rings and carabiners before connecting it to our inflated balloon.
 
+<figure><img src="../../../.gitbook/assets/KAOS payload preperation.jpg" alt="" width="375"><figcaption><p>Final payload preparations being made before attaching to HAB</p></figcaption></figure>
 
 ### Balloon Launch!
 
