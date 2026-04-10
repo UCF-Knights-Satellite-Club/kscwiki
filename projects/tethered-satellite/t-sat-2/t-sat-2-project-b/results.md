@@ -12,7 +12,7 @@ The following is the data received from the satellite during its flight. The sat
 
 All measurements are in SI units (i.e., the metric system).&#x20;
 
-Points of Interest:
+### Points of Interest:
 
 The flight officially started \~260 seconds (8.7 minutes) after the system was activated.
 

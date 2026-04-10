@@ -19,7 +19,7 @@ OpenHD puts Wi-Fi into a state where the modem sends data regardless of verifica
 
 In the end, OpenHD was selected because it allows reliable video transfer over long distances and is an easy software to use.
 
-The Ground Unit:
+### The Ground Unit:
 
 Setting up the ground unit for this system was the easiest part, but it still had its learning curve. We decided to use a laptop with SecureBoot turned off to run the OpenHD Desktop software without needing a separate Pi and screen for it. After booting OpenHD on the laptop, we are greeted with a Desktop with all of the options that OpenHD provides, two of which are the ones we used: "OpenHDGroundUnit" and "OpenHD." To get everything set up, we first had to boot up the Ground Unit and then open the main OpenHD UI.
 
@@ -29,13 +29,13 @@ The main UI also gives many other options in terms of customization. For TSat-2B
 
 For our system, we found that having the power of the Ground unit set on “Max 2” and the power of the Air unit set on “Medium” gave it a good balance between flight time and package loss (These settings will change depending on your system).
 
-The Air Unit:
+### The Air Unit:
 
 Since it was our first time using OpenHD, we decided to use regular cables to connect everything at first, just to see how the system functioned and if the Raspberry Pi turned on. We had the battery connected to a buck converter, which would supply power to the Pi and all of its constituents. On the Pi, we connected the WIFI adapter using a USB to Micro-USC adapter, and the camera. During the first boot-up, OpenHD usually takes a bit longer to boot and connect to the ground unit.
 
 Our first boot-up went well. Everything was connected, and we were getting live video from the Air unit perfectly. However, a few tests later, our live video stopped working for some reason. At first, we thought it was because the system wasn't soldered together, but later on, we found out that it was because the copper connections in our camera wire were damaged from the mechanical stress of too much plugging and unplugging of the camera and the Pi. For future iterations, we advise that if it is not necessary to disconnect fragile cables, such as a camera cable, leave those connections connected. That way, the wires don’t end up damaged over the course of the project.
 
-&#x20;The image below showa the Air unit during one of the early tests:
+The image below showa the Air unit during one of the early tests:
 
 ![](../../../../.gitbook/assets/unknown.jpeg)
 
@@ -45,9 +45,7 @@ The picture below was taken from the OpenHD website and is the diagram we used t
 
 &#x20;![](<../../../../.gitbook/assets/unknown (1).jpeg>)
 
-Below is&#x20;
-
-a picture of the diagram of the back connections of the Pi.
+Below is a picture of the diagram of the back connections of the Pi.
 
 <figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

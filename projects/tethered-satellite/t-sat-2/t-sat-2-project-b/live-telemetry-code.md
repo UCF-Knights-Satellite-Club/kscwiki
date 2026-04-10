@@ -6,6 +6,8 @@ description: >-
 
 # Live Telemetry Code
 
+All code mentioned below can be found here: [https://github.com/Dark42ed/tsat-2b](https://github.com/Dark42ed/tsat-2b)
+
 ## Telemetry
 
 > Note: The code for these systems are documented quite well, so be sure to take a look at any comments in the code for additional information.
@@ -65,7 +67,5 @@ If the `Air` system errors, it will begin to blink the blue LED. How many blinks
 * **3 Blinks**: Same as above, unsure if this can happen.
 
 If the USB cable on the laptop disconnects the `Ground Pipe` system, the `Ground` system program will disconnect the socket. Unfortunately, there is no way to recover from this besides restarting the `Ground` software, losing all live telemetry data.
-
-
 
 All information here is courtesy of Fred Reynolds (lead software engineer for T-Sat-2B).
