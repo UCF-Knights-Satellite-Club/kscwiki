@@ -6,11 +6,9 @@ description: Antenna rotator calibration procedure for the PSB Physics Ground St
 
 This procedure requires at least one person in the lab with access to the rotator controller and at least one person on the PSB roof. Both groups must maintain active communication throughout the procedure.
 
-The original source document is preserved here: [Calibration Procedure](../../../.gitbook/assets/physics-ground-station/source-documents/calibration-procedure.docx).
-
 ## Tools
 
-The source document did not identify the tools needed to adjust the mounting pole. Confirm the required tools before roof access.
+Confirm the required tools to adjust the mounting pole before roof access.
 
 ## Calibration procedure
 
@@ -37,4 +35,4 @@ The source document did not identify the tools needed to adjust the mounting pol
 
 ## Maintenance note
 
-The source document notes that the motors should receive WD-40 maintenance spray while personnel are on the roof.
+Apply WD-40 maintenance spray to the motors while personnel are on the roof, if maintenance is scheduled.

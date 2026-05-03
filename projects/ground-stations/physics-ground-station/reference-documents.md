@@ -1,19 +1,10 @@
 ---
-description: Reference documents and original source files for the PSB Physics Ground Station.
+description: Vendor manuals and reference files for the PSB Physics Ground Station.
 ---
 
 # Reference Documents
 
-Use these files as the preserved source material for the PSB Physics Ground Station. Club-authored procedures have been rewritten into GitBook pages where possible. Vendor manuals and datasheets are linked here as reference files.
-
-## Club source documents
-
-* [Satellite Ground Station PSB461](../../../.gitbook/assets/physics-ground-station/source-documents/satellite-ground-station-psb461.docx)
-* [Ground Station PC Setup Instructions](../../../.gitbook/assets/physics-ground-station/source-documents/ground-station-pc-setup-instructions.docx)
-* [Calibration Procedure](../../../.gitbook/assets/physics-ground-station/source-documents/calibration-procedure.docx)
-* [Ground Station Registration](../../../.gitbook/assets/physics-ground-station/source-documents/ground-station-registration.docx)
-* [Fall 2025 Meeting Notes](../../../.gitbook/assets/physics-ground-station/source-documents/fall-2025-meeting-notes.docx)
-* [Rack Position](../../../.gitbook/assets/physics-ground-station/source-documents/rack-position.pptx)
+Use these vendor manuals and reference files when operating or maintaining the PSB Physics Ground Station.
 
 ## Antenna references
 

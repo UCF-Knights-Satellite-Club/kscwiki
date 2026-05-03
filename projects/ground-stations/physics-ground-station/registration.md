@@ -4,9 +4,7 @@ description: Registration notes for the PSB Physics Ground Station.
 
 # Ground Station Registration
 
-The source registration document currently contains one note: create an instructional procedure to get the ground station registered with ARRL.
-
-Original source document: [Ground Station Registration](../../../.gitbook/assets/physics-ground-station/source-documents/ground-station-registration.docx).
+This procedure still needs to be written for ARRL registration.
 
 ## Status
 

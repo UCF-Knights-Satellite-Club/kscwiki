@@ -4,7 +4,7 @@ description: Radio and software setup notes for the PSB Physics Ground Station.
 
 # Radio and Software Notes
 
-This page captures setup notes from the PSB ground station source documentation. Treat these notes as the current working procedure until they are verified during an operating session.
+Use these setup notes as the current working procedure until they are verified during an operating session.
 
 ## IC-R8600
 
@@ -33,18 +33,18 @@ The IC-9700 is documented as the station radio transceiver.
 
 ## Satellite tracking software
 
-The source notes identify the following software:
+Current station software includes:
 
 * SDR Console v3.2 for SDR control.
 * Orbitron for satellite tracking and rotator control.
 * SpidAlfa 0.97 driver for Orbitron rotator support.
 * FLRig for transceiver control.
 
-The source notes indicate that Orbitron should be the main rotator-control program because the rotator documentation supports Orbitron through the SpidAlfa 0.97 driver. SDR Console's satellite interface can also use Orbitron rotor control in the background, allowing radio and rotor control through the SDR Console satellite interface.
+Orbitron should be the main rotator-control program because the rotator documentation supports Orbitron through the SpidAlfa 0.97 driver. SDR Console's satellite interface can also use Orbitron rotor control in the background, which allows radio and rotor control through the SDR Console satellite interface.
 
 ## Network notes
 
-Fall 2025 notes indicate:
+Current network notes:
 
 * DHCP was turned off.
 * Ethernet ran from the transceiver to the PC.

@@ -4,9 +4,7 @@ description: Planning notes and unresolved items for the PSB Physics Ground Stat
 
 # Project Notes
 
-This page captures planning notes from the Fall 2025 source documents.
-
-Original source document: [Fall 2025 Meeting Notes](../../../.gitbook/assets/physics-ground-station/source-documents/fall-2025-meeting-notes.docx).
+This page tracks planning notes and unresolved items for the PSB Physics Ground Station.
 
 ## September 23, 2025 meeting notes
 
@@ -25,7 +23,7 @@ Original source document: [Fall 2025 Meeting Notes](../../../.gitbook/assets/phy
 * Ethernet was connected from the transceiver to the PC.
 * The PC successfully pinged the radio.
 
-## Open tasks from source notes
+## Open tasks
 
 * Confirm whether the rotator controller powers the rotator or whether a separate power cable is required.
 * Gather complete dish antenna information, including use case, cable type, and connected equipment.

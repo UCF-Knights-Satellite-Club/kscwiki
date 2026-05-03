@@ -6,12 +6,10 @@ description: Ground station computer setup procedure for the PSB Physics Ground 
 
 Use this procedure to bring up the ground station computers from the equipment rack.
 
-The original source document includes additional photos and is preserved here: [Ground Station PC Setup Instructions](../../../.gitbook/assets/physics-ground-station/source-documents/ground-station-pc-setup-instructions.docx).
-
 ## Setup procedure
 
 1. Confirm the computers are receiving power from the PDU.
-2. Confirm the PDU power switch is on. The source document marks the red switch position as the on state.
+2. Confirm the PDU power switch is on. The red switch position is the on state.
 3. Connect the HDMI cable to a monitor.
 4. Connect the keyboard to the other end of the USB extension cable.
 5. Plug the mouse into the keyboard USB port.
