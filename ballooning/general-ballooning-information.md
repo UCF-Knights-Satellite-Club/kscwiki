@@ -49,4 +49,23 @@ First, you need to determine if you're launching a Moored Balloon or a Free Ball
 
 Second, you need to determine the weight of your payload. Launching on a Moored Balloon requires slightly more Neck Lift than what is required for buoyancy since the balloon doesn't need ot lift very fast.
 
-Once these two things are determined, you can start playing with a launch calculator like Habhub to determine the balloon size and how much Lifting Gas you will need.
+Once these two things are determined, you can start playing with a launch calculator like [Habhub](https://habhub.org/) to determine the balloon size and how much Lifting Gas you will need.
+
+Launching in Florida is not great for unmanned free balloons that want to be recovered. There is only a short window in the year when the upper altitude winds blow westward. Thus, most free balloons will want to be slightly overfilled to travel to the top of the atmosphere quickly without traveling a great distance across the ground. Depending on the size of the balloon, this could mean that the balloon pops at a lower altitude than desired.
+
+### Orlando FSDO Contact
+
+8427 Southpark Circle, Suite 500\
+Orlando, FL 32819-9060
+
+Phone: (407) 487-7000
+
+[9-AVS-AFG-ORL-FSDO-91@faa.gov](mailto:9-AVS-AFG-ORL-FSDO-91@faa.gov)
+
+This will be the point of contact when submitting launch & landing notices.
+
+### Misc. Information
+
+It is a good idea to label both Moored and Free Balloons with contact information so that if the payload gets lost, it can be recovered by private citizens. Place the identifying piece of paper on the top of each payload box with a few other phone numbers on each box. In the past, the Knights Satellite Club has used the sitting Project Committee Chair or the President's phone numbers. The following Template can be used.
+
+{% file src="../.gitbook/assets/Balloon Flight Contact Information.docx" %}

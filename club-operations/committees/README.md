@@ -17,7 +17,7 @@ Committees can be created, modified, or disbanded at any time at the discretion 
 
 ***
 
-## [Projects Committee](/broken/pages/2QeWCoqxiwlUv5XNVBQP)
+## [Projects Committee](https://app.gitbook.com/s/PuVVtRVX2TItLnaqjW8A/projects)
 
 **Reports to: President**
 
@@ -109,4 +109,3 @@ The Public Relations Committee maintains KSC's online presence and visual brandi
 3. Merchandise Management
    1. Design, produce, and distribute KSC merchandise.
    2. Collaborate with the Fundraising Committee for sales and inventory tracking.
-

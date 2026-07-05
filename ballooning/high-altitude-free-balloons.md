@@ -2,11 +2,18 @@
 
 ## Definition
 
-test
+The definition of an Unmanned Free Balloon (also known as a High Altitude Balloon) is a balloon that travels freely through the atmosphere through atmospheric buoyancy, and is unpowered.
 
 ## Restrictions
 
 {% embed url="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-101" %}
+
+For the following types of unmanned free balloons must follow the rules detailed below as outlined in Title 14 Chapter 1 Subchapter F Part 101:
+
+* Carries a payload package that weighs more than four pounds and has a weight/size ratio of more than three ounces per square inch on any surface of the package, determined by dividing the total weight in ounces of the payload package by the area in square inches of its smallest surface;
+* Carries a payload package that weighs more than six pounds;
+* Carries a payload, of two or more packages, that weighs more than 12 pounds; or
+* Uses a rope or other device for suspension of the payload that requires an impact force of more than 50 pounds to separate the suspended payload from the balloon
 
 No Unmanned Free Balloon may
 
@@ -56,6 +63,8 @@ Each person operating an unmanned free balloon shall
 
 ## Launching an Unmanned Free Balloon
 
+### Balloon Filling Instructions:
+
 Once the team has arrived at the launch site, please ensure that there are a maximum of 4 people around the balloon to avoid overcrowding it, and everyone working with the balloon should be wearing gloves, hair nets, and safety glasses. Below is a list of steps to follow on how to fill and tie off the balloon, and a document with pictures. While this is ongoing, there should be another team preparing the payload for flight.
 
 1. Lay a blanket, towel, or tarp on the ground to prevent the balloon from directly touching the ground. Especially when working on grass, the macroscopic sharpness of the grass can cause microtears in the balloon.
@@ -76,4 +85,76 @@ Once the team has arrived at the launch site, please ensure that there are a max
 
 {% file src="../.gitbook/assets/BalloonInflatingInstructions.pdf" %}
 
-## Launching with a 2 Payload Configuration
+Balloon Filling Video WIP
+
+### Launching with a Single Payload Configuration
+
+The weight capacity of a single payload is 6 pounds.
+
+Be sure that the payload is turned on and is broadcasting its telemetry, and \*most importantly\* that you’re receiving that telemetry BEFORE you tie up the payload.
+
+Use the following video to help tie up the payload box. Instead of finishing with a bow, finish with a knot.
+
+{% embed url="https://www.youtube.com/watch?v=A7FyGeRd0m8" %}
+
+Additionally, knots similar to Alpine Butterfly Loops will be needed on the four sides of the payload, so make sure you leave enough rope for you to complete this. We recommend tying these loops as you tie up the payload. For assistance with the Alpine Butterfly Loops, follow this video:
+
+{% embed url="https://www.youtube.com/watch?v=gX1dWKg6Ttc" %}
+
+On each of the Alpine Butterfly Loops, attach key rings on the top payload (or for Single Payloads, the payload)
+
+1. Tie the end of the string to another key ring, then loop the string through one of the key rings on the payload.
+2. Then loop it back through the “tied key ring,” then down to the key ring on the payload opposite of the side you just looped through.
+3. Go back up to the “tied key ring”, then down to the payload again.
+4. Return to the “tied key ring”, then down to the last key ring on the payload.
+5. Return to the “tied key ring” and pull up on the “tied key ring” to stabilize the four points. Cut the rope from step 4 and tie it to the “tied key ring. This will be the point at which the payload attaches to the balloon train.
+
+<figure><img src="../.gitbook/assets/DSC_1494.JPG" alt=""><figcaption></figcaption></figure>
+
+For the rest of the balloon train, we will start at the top with the balloon.
+
+1. Using the O-ring that the balloon neck was zip-tied around, run a length of at least 6 feet of string to the top of the parachute. The parachute should have a loop at its apex.
+2. Gently lay the parachute out so that it doesn’t tangle as the balloon rises when liftoff comes.
+3. Attach the 4 loops of the parachute to a carabiner and attach that to one side of the swivel eye bolt.
+4. Tie another length of string, at least 6 feet long to the side of the swivel eye bolt that is not shared with the parachute. Tie the other end of this string to the “tied key ring” from the steps above.
+5. When it is time to launch, slowly raise the balloon train into the sky and hold on to the payload.
+6. Count down and release.
+
+### Launching with a 2 Payload Configuration
+
+Launching with a 2 payload configuration doesn’t deviate too much from a single payload, but there are a few more considerations.
+
+Firstly, the total payload capacity now is 12 pounds, with each payload being a maximum of 6 pounds.
+
+Because of the addition of a second payload, stability between the 2 payloads is important, and they should not be positioned right next to each other. According to physics, a longer pendulum swings at a longer frequency, so we recommend a separation distance of at least 6 feet between the payloads with a stabilizer in between. In the past, half of a 3D print filament has been used. See the picture below (stabilizer between the 2 white boxes):
+
+<figure><img src="../.gitbook/assets/DSC_1540.JPG" alt=""><figcaption></figcaption></figure>
+
+We recommend tying the payloads up separately, then attaching them to the balloon train. Use the following YouTube video to help tie up the payload. Instead of finishing with a bow, finish with a knot. (This is the same sequence as the single payload.)
+
+{% embed url="https://www.youtube.com/watch?v=A7FyGeRd0m8" %}
+
+Additionally, knots similar to Alpine Butterfly Loops will be needed on the four sides of the payload, so make sure you leave enough rope for you to complete this. We recommend tying these loops as you tie up the payload. For assistance with the Alpine Butterfly Loops, follow this video:
+
+{% embed url="https://www.youtube.com/watch?v=gX1dWKg6Ttc" %}
+
+On each of the Alpine Butterfly Loops, attach key rings on the top payload (or for Single Payloads, the payload)
+
+1. Tie the end of the string to another key ring, then loop the string through one of the key rings on the payload.
+2. Then loop it back through the “tied key ring,” then down to the key ring on the payload opposite of the side you just looped through.
+3. Go back up to the “tied key ring”, then down to the payload again.
+4. Return to the “tied key ring”, then down to the last key ring on the payload.
+5. Return to the “tied key ring” and pull up on the “tied key ring” to stabilize the four points. Cut the rope from step 4 and tie it to the “tied key ring. This will be the point at which the payload attaches to the balloon train.
+
+On the payload stabilizer, add 4 key rings to it and attach 2 pieces of string that are at least 3 feet long each to each key ring. Tie the other end of 4 pieces of string (one from each key ring) to the key rings on the Alpine Butterfly Loops. Attach key rings to the 4 Alpine Butterfly Loops to the bottom payload, and tie the other ends of the remaining 4 pieces of string.
+
+<figure><img src="../.gitbook/assets/DSC_1494.JPG" alt=""><figcaption></figcaption></figure>
+
+For the rest of the balloon train, we will start at the top with the balloon.
+
+1. Using the O-ring that the balloon neck was zip-tied around, run a length of at least 6 feet of string to the top of the parachute. The parachute should have a loop at its apex.
+2. Gently lay the parachute out so that it doesn’t tangle as the balloon rises when liftoff comes.
+3. Attach the 4 loops of the parachute to a carabiner and attach that to one side of the swivel eye bolt.
+4. Tie another length of string, at least 6 feet long to the side of the swivel eye bolt that is not shared with the parachute. Tie the other end of this string to the “tied key ring” from the steps above.
+5. When it is time to launch, slowly raise the balloon train into the sky and hold on to the payload.
+6. Count down and release.
