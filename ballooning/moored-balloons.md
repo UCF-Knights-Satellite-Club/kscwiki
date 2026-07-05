@@ -2,7 +2,7 @@
 
 ## Definition
 
-The Official Definition of a Moored Balloon (also known as a Tethered Balloon) is "a balloon that is secured by a rope or cable ot the surface of the Earth or an object thereon." (Federal Aviation Agency Part 48 Civil Air Restrictions, Operation Rules For Moored Balloons and Kites, June 4, 1962).
+The Official Definition of a Moored Balloon (also known as a Tethered Balloon) is "a balloon that is secured by a rope or cable to the surface of the Earth or an object thereon." (Federal Aviation Agency Part 48 Civil Air Restrictions, Operation Rules For Moored Balloons and Kites, June 4, 1962).
 
 ## Restrictions
 
@@ -101,14 +101,14 @@ If launching from the Arboretum Park, please use the following information to fi
 
 * UCF Policy (Laboratory Safety Manual, digital page 67) does not support transportation of gas cylinders on public roadways by means other than vendor delivery.
 * From Dr. Sandra Hick @ Environmental Health and Safety
-  * "Gas cylinder dollies are **not** generally built for easy movement across soft terrain or over objects that may become entrained in the wheels.  It may be difficult to move a size 80 tank of helium (roughly 49 lbs and 36” high) safely through the Arboretum path to the proposed location.  Though it may be tempting, **safe cylinder transportation does not allow the cylinder to be carried**."
+  * "Gas cylinder dollies are **not** generally built for easy movement across soft terrain or over objects that may become entrained in the wheels. It may be difficult to move a size 80 tank of helium (roughly 49 lbs and 36” high) safely through the Arboretum path to the proposed location. Though it may be tempting, **safe cylinder transportation does not allow the cylinder to be carried**."
 * From David Fikhman @ Environmental Health and Safety
   * "The main worry is the uneven path that your group may face on the way to the launch site, but if you are careful and have the cylinder appropriately strapped and transferred as they say then it is fine.
   * My main suggestion/recommendation for them, if they could do this, is to find a launch site that could potentially be in an open parking lot of area where they do not need to move the tank over uneven surfaces. Even if it rained beforehand, it could make the ground surface slippery as well which could be a big hazard.
   * It would be best to do the suggestion to avoid any uneven surfaces/potential hazards associated with an unpaved road."
   * "If you are able to apply the impact-resistant plastic material to help move the cart, and have the PI come launch with you, I approve of it.
   * Just want to ensure there is as minimal of a risk as possible. Thank you!"
-* When traversing uneven ground, the club must use non-slip flat surfaces to roll the gas cart over the uneven terrain. Plywood, Balsam Wood, or plastic sheets work fine.&#x20;
+* When traversing uneven ground, the club must use non-slip flat surfaces to roll the gas cart over the uneven terrain. Plywood, Balsam Wood, or plastic sheets work fine.
 
 #### Emergency Management
 
