@@ -1,7 +1,3 @@
----
-description: Still need PCB design/diagram, and a wiring diagram.
----
-
 # Electronics and PCB
 
 Despite being in such a compact area, the live video and telemetry systems have largely separate electronics and are completely independent of each other.
@@ -22,6 +18,10 @@ For our live telemetry system, we had to design a PCB that would house all of th
    * [https://www.adafruit.com/product/3070](https://www.adafruit.com/product/3070)
 7. Bump Switch
 8. SD Card Breakout Board
+
+The following file has the PCB design. Please note that you will need KiCad to be able to properly view it.
+
+{% file src="../../../../.gitbook/assets/TSAT 2-B V4.kicad_pcb" %}
 
 We did not design a PCB for the live video system. Instead, this system had everything wired through the Raspberry Pi. The electronics for the live video system are listed below.
 
