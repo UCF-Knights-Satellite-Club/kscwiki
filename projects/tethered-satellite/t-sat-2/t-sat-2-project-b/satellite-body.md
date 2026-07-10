@@ -12,10 +12,18 @@ For the simplification, we designed the satellite using CAD programs like SolidW
 
 Below are detailed schematics of all parts that were used for the final satellite body and an explosion GIF to show how the body was assembled.
 
-// Waiting on drawings from Nolan and a new Gif //
+The Following are schematics for each part of the satellite body note that you will need SolidWorks to be able to properly view them.
 
+{% file src="../../../../.gitbook/assets/StructuralSides-TopPanel - Drawing (1).SLDDRW" %}
 
+{% file src="../../../../.gitbook/assets/BottomPanel-RaspberryPiMount - Drawing.SLDDRW" %}
 
-The following two pictures showcase the final design of the satellite.&#x20;
+{% file src="../../../../.gitbook/assets/NamePlate-LogoPlate - Drawing.SLDDRW" %}
+
+{% file src="../../../../.gitbook/assets/PCBMount - Drawing.SLDDRW" %}
+
+{% file src="../../../../.gitbook/assets/WifiCardMount - Drawing.SLDDRW" %}
+
+The following two pictures showcase the final design of the satellite.
 
 <div><figure><img src="../../../../.gitbook/assets/IMG_4906.JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/IMG_4907.JPG" alt=""><figcaption></figcaption></figure></div>
