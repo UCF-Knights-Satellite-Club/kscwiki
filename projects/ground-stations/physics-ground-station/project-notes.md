@@ -4,9 +4,11 @@ description: Planning notes and unresolved items for the PSB Physics Ground Stat
 
 # Project Notes
 
-This page tracks planning notes and unresolved items for the PSB Physics Ground Station.
+Historical observations and session records. See [Hardware](hardware.md) for the current equipment inventory.
 
 ## September 23, 2025 meeting notes
+
+These notes predate the current antenna inventory. Dish and future-2 m references describe the earlier setup.
 
 ### Antenna notes
 
@@ -23,7 +25,7 @@ This page tracks planning notes and unresolved items for the PSB Physics Ground 
 * Ethernet was connected from the transceiver to the PC.
 * The PC successfully pinged the radio.
 
-## Open tasks
+## Open tasks from the earlier notes
 
 * Confirm whether the rotator controller powers the rotator or whether a separate power cable is required.
 * Gather complete dish antenna information, including use case, cable type, and connected equipment.
@@ -32,3 +34,11 @@ This page tracks planning notes and unresolved items for the PSB Physics Ground 
 * Confirm cable specifications for the approximately 100 ft run from the lab to the ground station.
 * Acquire one USB hub or extension cable.
 * Acquire one long HDMI cable.
+
+## Session log
+
+Record UTC date/time, operator, equipment and settings, results, file locations, and next actions.
+
+{% file src="../../../.gitbook/assets/physics-ground-station/source-documents/station-notes-psb461.docx" %}
+Station Notes — PSB461 (historical source)
+{% endfile %}
