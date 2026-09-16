@@ -1,14 +1,14 @@
 ---
-description: Planning notes and unresolved items for the PSB Physics Ground Station.
+description: Past tests and unfinished tasks for the PSB Physics Ground Station.
 ---
 
 # Project Notes
 
-Historical observations and session records. See [Hardware](hardware.md) for the current equipment inventory.
+Notes from earlier work at the station. See [Hardware](hardware.md) for the equipment in use now.
 
 ## September 23, 2025 meeting notes
 
-These notes predate the current antenna inventory. Dish and future-2 m references describe the earlier setup.
+These notes describe the old setup. The antennas have changed since this meeting; the 2 m antenna is now installed.
 
 ### Antenna notes
 
@@ -37,8 +37,8 @@ These notes predate the current antenna inventory. Dish and future-2 m reference
 
 ## Session log
 
-Record UTC date/time, operator, equipment and settings, results, file locations, and next actions.
+For each session, write down the date and time in UTC, who was operating, the equipment and settings used, what happened, where recordings were saved, and what to try next.
 
 {% file src="../../../.gitbook/assets/physics-ground-station/source-documents/station-notes-psb461.docx" %}
-Station Notes — PSB461 (historical source)
+Station Notes — PSB461 (earlier notes)
 {% endfile %}

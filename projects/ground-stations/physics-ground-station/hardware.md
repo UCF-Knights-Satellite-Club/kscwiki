@@ -1,13 +1,13 @@
 ---
-description: "Installed equipment, spares, and manuals."
+description: "Equipment in use, spare parts, and manuals."
 ---
 
 # Hardware
 
 ## Station
 
-* Aluma T-24XXHD tower, currently documented at its lowest (nested) setting
-* Rack: PDU, Astron 1 / Astron 2, IC-9700, IC-R8600, PC1-RF, PC2-Pointing, Big RAS controller
+* Aluma T-24XXHD tower — fully lowered in the August 2026 roof photo
+* Lab rack: power distribution unit (PDU), Astron 1 / Astron 2 power supplies, IC-9700 and IC-R8600 radios, PC1-RF and PC2-Pointing computers, and rotator controller
 
 {% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/aluma-tower-safety-data.pdf" %}
 Aluma Tower T-24XXHD — shop drawings
@@ -22,6 +22,8 @@ Rack position — includes the airflow slide not in the PDF
 {% endfile %}
 
 ## Antennas
+
+The band labels (2 m, 70 cm, and 12 cm) describe the radio frequencies the antennas are made for, not their size.
 
 * M2 2M7X — installed 2 m
 * M2 425CP16 — installed 70 cm
@@ -41,8 +43,8 @@ DSE1276LY — 12 cm loop yagi kit
 
 ## Pointing
 
-* AlfaSpid BIG-RAS azimuth/elevation rotator
-* ROT2Prog controller
+* AlfaSpid BIG-RAS rotator — turns the antennas left/right and up/down
+* ROT2Prog controller — controls the rotator’s movement
 
 {% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/alfaspid-big-ras-specifications.pdf" %}
 BIG-RAS specifications
@@ -63,23 +65,23 @@ Do not regulate
 ## Radios
 
 {% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/icom-ic-9700-basic-manual.pdf" %}
-IC-9700 — basic
+IC-9700 — basic manual
 {% endfile %}
 
 {% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/icom-ic-9700-advanced-manual.pdf" %}
-IC-9700 — advanced
+IC-9700 — advanced manual
 {% endfile %}
 
 {% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/icom-ic-9700-ci-v-reference-guide.pdf" %}
-IC-9700 — CI-V
+IC-9700 — computer control commands (CI-V)
 {% endfile %}
 
 {% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/icom-ic-r8600-instruction-manual.pdf" %}
-IC-R8600 — instruction
+IC-R8600 — instruction manual
 {% endfile %}
 
 {% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/icom-ic-r8600-ci-v-reference-guide.pdf" %}
-IC-R8600 — CI-V
+IC-R8600 — computer control commands (CI-V)
 {% endfile %}
 
 ## Station photos

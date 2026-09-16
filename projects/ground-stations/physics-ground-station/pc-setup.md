@@ -1,25 +1,25 @@
 ---
-description: "Bring up PC1-RF or PC2-Pointing from the equipment rack."
+description: "Connect a monitor, keyboard, and mouse to PC1-RF or PC2-Pointing."
 ---
 
 # Connect a computer
 
 {% hint style="warning" %}
-**Pending walkthrough.** Last tested: not recorded.
+**These steps still need to be checked at the station.** There is no recorded test date.
 {% endhint %}
 
-1. Confirm the computers are receiving power from the PDU above them. Red is on.
-2. Connect the labeled HDMI and USB extension cables to the computer you intend to use.
+1. Check that the power distribution unit (PDU) above the computers is on. The red switch position means on.
+2. Connect the labeled HDMI and USB extension cables to the computer you want to use.
 3. Connect HDMI to the monitor. Connect the keyboard to the other end of the USB extension.
 4. Plug the mouse into the keyboard USB port.
 5. Press the computer power button on the rack front.
-6. Confirm the monitor receives a signal.
+6. Check that the computer screen appears on the monitor.
 
 ## No display signal
 
 If the computer has been on a long time it can enter a deep sleep. Hold the power button until the light goes off, then press it again.
 
-If that fails, power down and flip the rear power-supply switch off and on. Confirm the monitor is on, the correct input is selected, and HDMI is seated.
+If that fails, shut the computer down and flip the power-supply switch on the back off and on. Check that the monitor is on, its input matches the HDMI port you used, and the HDMI cable is plugged in firmly.
 
 {% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/pc-connection-guide.pdf" %}
 PC Connection Guide — setup photos

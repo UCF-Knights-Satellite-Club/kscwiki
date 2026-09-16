@@ -1,28 +1,28 @@
 ---
-description: "Computer names and likely roles from September 2026 records."
+description: "What Uhura and Troi are used for, based on September 2026 notes."
 ---
 
 # Station computers
 
-| Computer | Rack label | Likely role |
+| Computer | Rack label | Expected use |
 | --- | --- | --- |
-| Uhura — upper | PC1-RF | Radio |
-| Troi — lower | PC2-Pointing | Pointing |
+| Uhura — upper | PC1-RF | Control the radios |
+| Troi — lower | PC2-Pointing | Aim the antennas |
 
-Names and labels come from photos and rack drawings. Confirm current OS, applications, and cable assignments on station.
+These names and labels come from photos and rack drawings. Check each computer’s operating system, programs, and cable connections at the station before relying on this table.
 
-## Linux investigation
+## Trying Linux
 
-Preserve the working Windows drive before experimenting. SDR Console requires Windows; running Orbitron under Wine does not verify its SpidAlfa rotator connection.
+Keep the working Windows drive and its settings before trying Linux. SDR Console needs Windows. Wine can run some Windows programs on Linux, but opening Orbitron that way does not prove it can still control the rotator through SpidAlfa.
 
-Record the current configuration below before choosing a computer for Linux.
+Fill in the table below before choosing a computer for Linux.
 
-## Inventory worksheet
+## What to check
 
 | Item | Uhura | Troi |
 | --- | --- | --- |
-| OS and version | To record | To record |
-| Applications used during a pass | To record | To record |
-| Radio and rotator connections | To trace | To trace |
-| Links to the other computer | To identify | To identify |
-| Saved settings and recovery copy | To preserve | To preserve |
+| Operating system and version | To record | To record |
+| Programs used during a pass | To record | To record |
+| Cables to the radios and rotator | To check | To check |
+| Connections to the other computer | To check | To check |
+| Settings and a backup of the working setup | To save | To save |

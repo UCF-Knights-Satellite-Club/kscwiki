@@ -5,7 +5,7 @@ description: Vendor manuals and reference files for the PSB Physics Ground Stati
 
 # Reference Documents
 
-Current equipment manuals are on [Hardware](hardware.md). This index preserves older links; some documents describe retired equipment or other rotator models.
+Find manuals for the equipment in use on [Hardware](hardware.md). These older links are kept for reference. Some cover equipment the station no longer uses or different rotator models.
 
 ## Antenna references
 
