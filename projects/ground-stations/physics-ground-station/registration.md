@@ -1,16 +1,19 @@
 ---
-description: Registration notes for the PSB Physics Ground Station.
+description: "KQ4OHW — Knights Satellite Club."
 ---
 
-# Ground Station Registration
+# Callsign and registration
 
-This procedure still needs to be written for ARRL registration.
+[FCC club license](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=4880224) · Expires 3 February 2034
 
-## Status
+The club’s FCC registration number (FRN) is 0034742528.
 
-This procedure still needs to be written after the station team confirms:
+The license lists Joshua Taggart (KQ4KNV) as trustee, as recorded on 16 September 2026.
 
-* Which ARRL registration path applies to the PSB station.
-* Which club or university contact owns the registration.
-* What call sign, station location, equipment, and operator information must be submitted.
-* Whether any UCF department approval is required before registration.
+## Operating
+
+A licensed operator must be responsible whenever the station transmits. What you can transmit depends on that operator’s license. Without a licensed operator in charge, only receive signals.
+
+## Registration
+
+The trustee is the person named on the club license; they do not have to be the ground station lead. To change the trustee or update the license, see the [ARRL club call sign guide](https://www.arrl.org/club-call-signs).

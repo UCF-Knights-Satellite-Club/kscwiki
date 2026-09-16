@@ -1,52 +1,38 @@
 ---
-description: Radio and software setup notes for the PSB Physics Ground Station.
+description: "Set up the radios and satellite tracking software."
 ---
 
-# Radio and Software Notes
+# Radio and software
 
-Use these setup notes as the current working procedure until they are verified during an operating session.
+{% hint style="warning" %}
+**These setup notes are incomplete.** There is no recorded test date.
+{% endhint %}
 
 ## IC-R8600
 
-The IC-R8600 is documented as the station software-defined radio.
+This radio receives signals.
 
-### Computer interface setup
-
-1. Power on Astron 2 PDU.
-2. Power on the radio.
-3. Connect USB A from the computer to USB B on the radio I/Q OUT port.
-4. Power on and set up the rotator controller.
-5. Launch SDR Console v3.2.
-6. Select the IC-R8600 radio.
-
-![SDR Console radio selection](../../../.gitbook/assets/physics-ground-station/images/system-overview/image2.png)
+1. Turn on the power unit labeled Astron 2.
+2. Turn on the radio.
+3. Connect the cable’s USB-A end to the computer and its USB-B end to the radio port labeled **I/Q OUT**.
+4. Turn on and set up the rotator controller.
+5. Launch SDR Console v3.2 and select the IC-R8600.
 
 ## IC-9700
 
-The IC-9700 is documented as the station radio transceiver.
+This radio can receive and transmit. Turn on Astron 1, then the radio. The steps for connecting it to the computer still need to be tested and written down.
 
-### Computer interface setup
+## Tracking software
 
-1. Power on Astron 1 PDU.
-2. Power on the radio.
-3. Complete the remaining radio-interface setup after the station team verifies the final IC-9700 connection procedure.
+* SDR Console v3.2 — controls the receiver
+* Orbitron — predicts satellite positions and controls antenna pointing
+* SpidAlfa 0.97 — connects Orbitron to the rotator controller
+* FLRig — controls the radio from the computer
 
-## Satellite tracking software
+The setup notes use Orbitron with SpidAlfa to move the antennas. SDR Console can also use Orbitron in the background.
 
-Current station software includes:
+Earlier Ethernet tests are in [Project notes](project-notes.md).
 
-* SDR Console v3.2 for SDR control.
-* Orbitron for satellite tracking and rotator control.
-* SpidAlfa 0.97 driver for Orbitron rotator support.
-* FLRig for transceiver control.
+## SDR Console
 
-Orbitron should be the main rotator-control program because the rotator documentation supports Orbitron through the SpidAlfa 0.97 driver. SDR Console's satellite interface can also use Orbitron rotor control in the background, which allows radio and rotor control through the SDR Console satellite interface.
-
-## Network notes
-
-Current network notes:
-
-* DHCP was turned off.
-* Ethernet ran from the transceiver to the PC.
-* The PC successfully pinged the radio.
-* Future work may include connecting radios to the UCF Ethernet network for remote access.
+![SDR Console radio selection](../../../.gitbook/assets/physics-ground-station/images/system-overview/image2.png)

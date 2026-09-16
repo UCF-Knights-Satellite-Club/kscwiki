@@ -1,10 +1,11 @@
 ---
+hidden: true
 description: Vendor manuals and reference files for the PSB Physics Ground Station.
 ---
 
 # Reference Documents
 
-Use these vendor manuals and reference files when operating or maintaining the PSB Physics Ground Station.
+Find manuals for the equipment in use on [Hardware](hardware.md). These older links are kept for reference. Some cover equipment the station no longer uses or different rotator models.
 
 ## Antenna references
 

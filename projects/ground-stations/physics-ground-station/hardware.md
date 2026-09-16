@@ -1,58 +1,95 @@
 ---
-description: Hardware overview for the PSB Physics Ground Station.
+description: "Equipment in use, spare parts, and manuals."
 ---
 
 # Hardware
 
-## Station location
+## Station
 
-The ground station antennas are mounted on the roof of the UCF Physical Sciences Building. The station equipment rack is located in the PSB lab space.
+* Aluma T-24XXHD tower — fully lowered in the August 2026 roof photo
+* Lab rack: power distribution unit (PDU), Astron 1 / Astron 2 power supplies, IC-9700 and IC-R8600 radios, PC1-RF and PC2-Pointing computers, and rotator controller
 
-Roof work requires at least one person in the lab and one person on the roof, with active communication between both groups.
+{% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/aluma-tower-safety-data.pdf" %}
+Aluma Tower T-24XXHD — shop drawings
+{% endfile %}
+
+{% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/rack-layout.pdf" %}
+Rack layout
+{% endfile %}
+
+{% file src="../../../.gitbook/assets/physics-ground-station/source-documents/rack-position.pptx" %}
+Rack position — includes the airflow slide not in the PDF
+{% endfile %}
 
 ## Antennas
 
-* Yagi antenna for the 70 cm band.
-* Dish antenna for the 13 cm band.
-* Future 2 m antenna support remains under consideration.
+The band labels (2 m, 70 cm, and 12 cm) describe the radio frequencies the antennas are made for, not their size.
 
-The Yagi antenna and dish antenna should be co-aligned straight outward with the rotator.
+* M2 2M7X — installed 2 m
+* M2 425CP16 — installed 70 cm
+* DSE1276LY — spare 12 cm loop yagi
 
-## Cabling
+{% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/m2-2m7x-manual.pdf" %}
+M2 2M7X — manual
+{% endfile %}
 
-* The Yagi antenna uses N-type coax.
-* The rotator has two motor-control wires.
-* The rotator may also require a separate power wire; this still needs confirmation.
-* The dish antenna cable type still needs confirmation.
-* The cable distance from the lab to the ground station is approximately 100 ft.
-* Coax attenuation may be a concern for the dish antenna frequency because of the long cable run.
+{% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/fgman425cp16b.pdf" %}
+M2 425CP16 — manual
+{% endfile %}
 
-## Radio equipment
+{% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/12-cm-loop-yagi-kit-dse1276ly.pdf" %}
+DSE1276LY — 12 cm loop yagi kit
+{% endfile %}
 
-* IC-R8600 software-defined radio.
-* IC-9700 radio transceiver.
+## Pointing
+
+* AlfaSpid BIG-RAS rotator — turns the antennas left/right and up/down
+* ROT2Prog controller — controls the rotator’s movement
+
+{% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/alfaspid-big-ras-specifications.pdf" %}
+BIG-RAS specifications
+{% endfile %}
+
+{% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/alfaspid-rot2prog-manual.pdf" %}
+ROT2Prog controller manual
+{% endfile %}
+
+{% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/spid-setup-standard-rotor.pdf" %}
+Standard rotator setup
+{% endfile %}
+
+{% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/spid-hr-support-page.pdf" %}
+Do not regulate
+{% endfile %}
+
+## Radios
+
+{% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/icom-ic-9700-basic-manual.pdf" %}
+IC-9700 — basic manual
+{% endfile %}
+
+{% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/icom-ic-9700-advanced-manual.pdf" %}
+IC-9700 — advanced manual
+{% endfile %}
+
+{% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/icom-ic-9700-ci-v-reference-guide.pdf" %}
+IC-9700 — computer control commands (CI-V)
+{% endfile %}
+
+{% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/icom-ic-r8600-instruction-manual.pdf" %}
+IC-R8600 — instruction manual
+{% endfile %}
+
+{% file src="../../../.gitbook/assets/physics-ground-station/reference-documents/icom-ic-r8600-ci-v-reference-guide.pdf" %}
+IC-R8600 — computer control commands (CI-V)
+{% endfile %}
+
+## Station photos
 
 ![IC-R8600 rear panel](../../../.gitbook/assets/physics-ground-station/images/system-overview/image1.jpg)
 
 ![IC-R8600 front panel](../../../.gitbook/assets/physics-ground-station/images/system-overview/image3.jpg)
 
-## Power equipment
-
-The rack includes Astron power distribution units. There are two units, Use the Astron 1 and Astron 2 labels when identifying radio power paths.
-
 ![Astron rack power units](../../../.gitbook/assets/physics-ground-station/images/system-overview/image4.jpg)
 
-## Rack layout
-
-The rack layout image is shown below for quick reference. (will update this image with labels soon)
-
 ![Rack layout](../../../.gitbook/assets/physics-ground-station/images/system-overview/rack-image1.png)
-
-## Open hardware questions
-
-These items still need confirmation:
-
-* Confirm whether the rotator controller powers the rotator or whether there is a separate power cable.
-* Confirm the specific rotator installed on the roof, including whether it is the 12 V or 18 V model.
-* Confirm the dish antenna use case, cable type, and what equipment connects to it.
-* Confirm cable specifications for the approximately 100 ft run.
