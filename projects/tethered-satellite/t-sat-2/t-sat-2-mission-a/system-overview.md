@@ -21,6 +21,7 @@ The ground station consisted of an ESP32, an RFM95W LoRa radio module, and a use
 The following documents provide additional information regarding the T-Sat 2A design, development, testing, launch preparation, flight operations, and postflight assessment.
 
 * **T-Sat 2A Mission Concept Review (MCR)** — Documents the original mission concept, objectives, and initial system design intent.
+* **T-Sat 2A Preliminary Design Review (PDR) —** Documents the preliminary baseline design, subsystem requirements allocation, risk assessments, operational concepts, and interface definitions demonstrating that the design approach is technically sound and ready to proceed to detailed design.
 * **T-Sat 2A Critical Design Review (CDR)** — Documents the final system architecture, mechanical design, electrical development, flight software, budget, and engineering decisions leading to the completed vehicle.
 * **T-Sat 2A Flight Readiness Review (FRR)** — Documents final launch preparation, launch-day operations, flight performance, separation behavior, parachute deployment, recovery, mission results, and lessons learned.
 * **T-Sat 2A Project Repository** — Contains applicable source code, CAD files, PCB designs, hardware documentation, and project development files. ([Francesca Alfaro GitHub](https://github.com/ColdBloodV/KSC/tree/main/TSAT2-A) / [Seth Jones Github](https://github.com/SethJonesIntern/TSAT))
