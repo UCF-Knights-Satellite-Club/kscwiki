@@ -34,6 +34,8 @@ The separation command was successfully received, but the servo did not initiall
 
 The separation system therefore demonstrated partial success: communication and command processing operated as intended, but the initial mechanical deployment did not occur as planned.
 
+<figure><img src="../../../../.gitbook/assets/Tethered Satellite 2A Altitude Graph.png" alt="" width="563"><figcaption><p>Post-Processed T-Sat 2A Altitude Data</p></figcaption></figure>
+
 ### Recovery and Mission Results
 
 #### Parachute Deployment
