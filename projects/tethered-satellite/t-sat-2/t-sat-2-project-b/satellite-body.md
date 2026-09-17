@@ -14,7 +14,7 @@ Below are detailed schematics of all parts that were used for the final satellit
 
 The Following are schematics for each part of the satellite body note that you will need SolidWorks to be able to properly view them.
 
-{% file src="../../../../.gitbook/assets/StructuralSides-TopPanel - Drawing (1).SLDDRW" %}
+{% file src="../../../../.gitbook/assets/StructuralSides-TopPanel - Drawing.SLDDRW" %}
 
 {% file src="../../../../.gitbook/assets/BottomPanel-RaspberryPiMount - Drawing.SLDDRW" %}
 
